@@ -5,11 +5,6 @@ This project features a glassmorphism design, smooth transitions, and form valid
 
 ---
 
-##  Live Demo
-
-https://your-username.github.io/login-register-ui/
-
----
 
 ##  Features
 
